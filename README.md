@@ -2,21 +2,21 @@
 Russian keyboard plus some missing ukranian letters (є,Є,ї,Ї,і,І,ґ,Ґ)
 
 ## Modifiers
-Shift: ⇧
+Shift: ⇧\
 Option: ⌥
 * ⌥ + э = є
 * ⌥ + ⇧ + э = Є
 * ⌥ + ё = ї
-* ⌥ + ⇧ + Ё = Ї
+* ⌥ + ⇧ + ё = Ї
 * ⌥ + ы = і
-* ⌥ + ⇧ + Ы = І
+* ⌥ + ⇧ + ы = І
 * ⌥ + г = ґ
-* ⌥ + ⇧ + Г = Ґ
+* ⌥ + ⇧ + г = Ґ
 
 ## Installation
 
 Move the keyboard layout `RussianPlus.keylayout` and icons file `RussianPlus.icns`
-To `~/Library/Keyboard Layouts/` (current user) 
+To `~/Library/Keyboard Layouts/` (current user)
 Or `/Library/Keyboard Layouts/` (for all users)
 
     git clone https://github.com/gonzaru/ru-ua-osx-keylayout.git
