@@ -1,5 +1,5 @@
-# Russian macOS keyboard with ukrainian letters
-Russian keyboard plus some missing ukranian letters (є,Є,ї,Ї,і,І,ґ,Ґ)
+# Russian macOS keyboard layout with Belarusian/Ukrainian letters
+Russian keyboard plus some missing Belarusian/Ukrainian letters (є,Є,ї,Ї,і,І,ґ,Ґ,ў,Ў,')
 
 ## Modifiers
 Shift: ⇧\
@@ -12,15 +12,17 @@ Option: ⌥
 * ⌥ + ⇧ + ы = І
 * ⌥ + г = ґ
 * ⌥ + ⇧ + г = Ґ
+* ⌥ + щ = ў
+* ⌥ + ⇧ + Щ = Ў
+* ⌥ + ⇧ + 9 = '
 
 ## Installation
-
-Move the keyboard layout `RussianPlus.keylayout` and icons file `RussianPlus.icns`
-To `~/Library/Keyboard Layouts/` (current user)
+Move the keyboard layout `RussianPlus.keylayout` and icons file `RussianPlus.icns`\
+To `~/Library/Keyboard Layouts/` (current user)\
 Or `/Library/Keyboard Layouts/` (for all users)
 
-    git clone https://github.com/gonzaru/ru-ua-osx-keylayout.git
-    cd ru-ua-osx-keylayout/
+    git clone https://github.com/gonzaru/ru-by-ua-osx-keylayout.git
+    cd ru-by-ua-osx-keylayout/
     # for your current user
     cp RussianPlus.{icns,keylayout} ~/Library/Keyboard\ Layouts/
     # for all users
