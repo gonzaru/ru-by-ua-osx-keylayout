@@ -1,17 +1,17 @@
 # Russian macOS keyboard layout with Belarusian/Ukrainian letters
-Russian keyboard plus some missing Belarusian/Ukrainian letters (є,Є,ї,Ї,і,І,ґ,Ґ,ў,Ў,')
+Russian keyboard plus some missing Belarusian/Ukrainian letters (ґ,Ґ,є,Є,і,І,ї,Ї,ў,Ў,')
 
 ## Modifiers
 Shift: ⇧\
 Option: ⌥
+* ⌥ + ё = ґ
+* ⌥ + ⇧ + ё = Ґ
 * ⌥ + э = є
 * ⌥ + ⇧ + э = Є
-* ⌥ + ё = ї
-* ⌥ + ⇧ + ё = Ї
-* ⌥ + ы = і
-* ⌥ + ⇧ + ы = І
-* ⌥ + г = ґ
-* ⌥ + ⇧ + г = Ґ
+* ⌥ + и = і
+* ⌥ + ⇧ + и = І
+* ⌥ + ъ = ї
+* ⌥ + ⇧ + ъ = Ї
 * ⌥ + щ = ў
 * ⌥ + ⇧ + Щ = Ў
 * ⌥ + ⇧ + 9 = '
